@@ -27,11 +27,11 @@ int calculadora(){
             printf("El total es de: %i", total);
             break;
         }
-        //hice mal el commi
+        //hice mal el commit
 
 
     } 
-    while( xd==1 );
+    while(  xd==1 );
 }
 
 
